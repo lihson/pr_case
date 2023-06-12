@@ -1,5 +1,7 @@
 # pr_case
-<img src="LOS.jpg" alt="alt text" title="LOS"/>
-<img src="LOS-sh.jpg" alt="alt text" title="LOS-sh"/>
-<img src="NLOS.jpg" alt="alt text" title="NLOS"/>
-<img src="NLOS-sh.jpg" alt="alt text" title="NLOS-sh"/>
+Spectral efficiency simulation for NTU CSIE5113 final project
+
+<img src="jointprob_LOS.jpg" alt="alt text" title="JointProb LOS"/>
+<img src="jointprob_NLOS.jpg" alt="alt text" title="ointProb NLOS"/>
+<img src="SE_LOS.jpg" alt="alt text" title="SE LOS"/>
+<img src="SE_NLOS.jpg" alt="alt text" title="SE NLOS"/>
