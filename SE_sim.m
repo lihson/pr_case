@@ -3,7 +3,7 @@ clear;
 r=5; % radius
 n=65; % simulation of sbs density upper bound 
 senario = 0; % 0 for LOS; 1 for NLOS
-num_simulations = 10; % number of simulation for each lambda_S/lambda_M
+num_simulations = 10; % number of simulation for each λs/λm
 
 % PREALLOCATING
 pr_NLOS_decouple = zeros(3,n);
