@@ -2,7 +2,7 @@ clear all;
 
 n=30;
 use_sh_lambda = false;
-senario = 0;% 0 for LOS; 1 for NLOS
+scenario = 0;% 0 for LOS; 1 for NLOS
 
 % PREALLOCATING
 Pr_case_lambda = zeros(3,n);
